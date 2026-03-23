@@ -1,113 +1,63 @@
-# natori – フライデー・ナイト
+# なとり – ラブソング
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-～♪～
-The work has been done
-And the boss is gone
-Baby I'm on my way to you
-Friday night
-I missed your embrace
-Seven lonely days
-There are so many kisses due
-Friday night
-～♪～
-The week has been long
-But our love is strong
-And tonight we will start a new
-Friday night
-The taste of the wine
-Will be so divine
-When I'm sharin my glass
-with you Friday night
-Since Friday night
-I've been so lonely
-Tell me why
-You kiss me only
-Only Friday night
-The more kiss you
-Friday night
-The more I miss you
-Every night
-My love's too big for only
-Friday night
-Friday night
-Wrong or right
-Dim the light we're out of sight
-Friday night
-Wrong or right
-Hold me tight with all
-your might
-Friday night is alright
-Every night should
-be a Fridaynight
-～♪～
-I hope and I pray
-You will say one day
-That our love is not only for
-Friday night
-For then is will be Ev'ry
-night you'll see
-And for ever and evermore
-Friday night
-Friday night
-I've been so lonely
-Friday night
-You kiss me only
-Only Friday night
-The more kiss you
-Friday night
-The more I miss you
-Every night
-My love's too big for only
-Friday night
-Friday night
-Wrong or right
-Dim the light we're out of sight
-Friday night
-Wrong or right
-Hold me tight with all
-your might
-Friday night is alright
-Every night should
-be a Friday night
-～♪～
-Since Friday night
-I've been so lonely
-Tell me why
-You kiss me only
-Only Friday night
-The more kiss you
-Friday night
-The more I miss you
-Every night
-My love's too big for only
-Friday night
-Friday night
-Wrong or right
-Dim the light we're out of sight
-Friday night
-Wrong or right
-Hold me tight with all
-your might
-Friday night is alright
-Every night should
-be a Friday night
-～♪～
-Friday night
-Wrong or right
-Dim the light we're out of sight
-Every night should
-be a Friday night
-Friday night
-Wrong or right
-Dim the light we're out of sight
-Every night should
-be a Friday night
-Friday night
-Wrong or right
-Dim the light we're out of sight
-Every night should
-be a Friday night
+また、間違えた
+これで何度目の愛だ？
+もう、わからないくらいに
+溺れている
+ただのわがままなら
+これでやめるから
+もう一度、壊れて　私のために
+柔らかい肌で雨が踊る
+結末の色はグレイ、
+ありふれていたんだって
+それぞれの暮らしの中に煙る
+願い込めて、歌うように
+揺れる瞳の奥、
+何を見つめていたの？
+ねぇ、間違えていたのはどこから？
+また、夢を見た
+それもまた夢の中？
+もう、忘れたいくらいに憶えている
+あれもこれも違うなら
+すべてを隠した、嘘の裏側で
+あなたを待っている
+生ぬるい風が肌を撫でる
+羽根を休めた鳥のさえずりを聞く
+目障りなほど、幸せがちらついて
+戻れなくなる前に、
+声が遠くなる前に
+ただ、許すだけ
+あとは、許されるだけ
+それだけを望んでしまった、
+それだけを
+愛された分なら、ちゃんと返すから
+もう一度、愛して　ただ私だけを
+傷つけてしまうたび、
+綻んでいく答えが
+窓辺をつく、雨のように降る
+汚れていくのは私だけでいいから
+夜へと向かう列車が来る
+ただ、ひとつだけ
+きっと　ただ、ひとつだけ
+憶えていた、愛の全部
+ただ、あなただけ
+ずっと　ただ、あなただけ
+また、夢を見た
+それもまた夢の中？
+もう、わからないくらいに
+憶えている
+あれもこれも違うなら
+すべてを隠した、嘘の裏側で
+あなたを待っている
+また、間違えた
+これで何度目の愛だ？
+もう、わからないくらいに
+溺れている
+ただのわがままでも、
+嘘でもいいから
+もう一度、壊れて　私のために
+もう一度、殺して　私のために
 ```
